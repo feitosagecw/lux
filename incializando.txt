@@ -1,0 +1,3 @@
+Inicie o terminal;
+
+Digite "python lux.py", no terminal, para iniciar o programa.
